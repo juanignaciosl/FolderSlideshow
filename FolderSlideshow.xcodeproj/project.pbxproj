@@ -1,0 +1,482 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		405195A2190EDC9100166884 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 405195A1190EDC9100166884 /* Cocoa.framework */; };
+		405195AC190EDC9100166884 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 405195AA190EDC9100166884 /* InfoPlist.strings */; };
+		405195AE190EDC9100166884 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 405195AD190EDC9100166884 /* main.m */; };
+		405195B2190EDC9100166884 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 405195B0190EDC9100166884 /* Credits.rtf */; };
+		405195B5190EDC9100166884 /* FSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 405195B4190EDC9100166884 /* FSAppDelegate.m */; };
+		405195B8190EDC9100166884 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 405195B6190EDC9100166884 /* MainMenu.xib */; };
+		405195BA190EDC9100166884 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 405195B9190EDC9100166884 /* Images.xcassets */; };
+		405195C1190EDC9100166884 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 405195C0190EDC9100166884 /* XCTest.framework */; };
+		405195C2190EDC9100166884 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 405195A1190EDC9100166884 /* Cocoa.framework */; };
+		405195CA190EDC9100166884 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 405195C8190EDC9100166884 /* InfoPlist.strings */; };
+		405195CC190EDC9100166884 /* FolderSlideshowTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 405195CB190EDC9100166884 /* FolderSlideshowTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		405195C3190EDC9100166884 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 40519596190EDC9100166884 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 4051959D190EDC9100166884;
+			remoteInfo = FolderSlideshow;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4051959E190EDC9100166884 /* FolderSlideshow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FolderSlideshow.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		405195A1190EDC9100166884 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		405195A4190EDC9100166884 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		405195A5190EDC9100166884 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		405195A6190EDC9100166884 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		405195A9190EDC9100166884 /* FolderSlideshow-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FolderSlideshow-Info.plist"; sourceTree = "<group>"; };
+		405195AB190EDC9100166884 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		405195AD190EDC9100166884 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		405195AF190EDC9100166884 /* FolderSlideshow-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FolderSlideshow-Prefix.pch"; sourceTree = "<group>"; };
+		405195B1190EDC9100166884 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		405195B3190EDC9100166884 /* FSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FSAppDelegate.h; sourceTree = "<group>"; };
+		405195B4190EDC9100166884 /* FSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FSAppDelegate.m; sourceTree = "<group>"; };
+		405195B7190EDC9100166884 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		405195B9190EDC9100166884 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		405195BF190EDC9100166884 /* FolderSlideshowTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FolderSlideshowTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		405195C0190EDC9100166884 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		405195C7190EDC9100166884 /* FolderSlideshowTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FolderSlideshowTests-Info.plist"; sourceTree = "<group>"; };
+		405195C9190EDC9100166884 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		405195CB190EDC9100166884 /* FolderSlideshowTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FolderSlideshowTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4051959B190EDC9100166884 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				405195A2190EDC9100166884 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		405195BC190EDC9100166884 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				405195C2190EDC9100166884 /* Cocoa.framework in Frameworks */,
+				405195C1190EDC9100166884 /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		40519595190EDC9100166884 = {
+			isa = PBXGroup;
+			children = (
+				405195A7190EDC9100166884 /* FolderSlideshow */,
+				405195C5190EDC9100166884 /* FolderSlideshowTests */,
+				405195A0190EDC9100166884 /* Frameworks */,
+				4051959F190EDC9100166884 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4051959F190EDC9100166884 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4051959E190EDC9100166884 /* FolderSlideshow.app */,
+				405195BF190EDC9100166884 /* FolderSlideshowTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		405195A0190EDC9100166884 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				405195A1190EDC9100166884 /* Cocoa.framework */,
+				405195C0190EDC9100166884 /* XCTest.framework */,
+				405195A3190EDC9100166884 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		405195A3190EDC9100166884 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				405195A4190EDC9100166884 /* AppKit.framework */,
+				405195A5190EDC9100166884 /* CoreData.framework */,
+				405195A6190EDC9100166884 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		405195A7190EDC9100166884 /* FolderSlideshow */ = {
+			isa = PBXGroup;
+			children = (
+				405195B3190EDC9100166884 /* FSAppDelegate.h */,
+				405195B4190EDC9100166884 /* FSAppDelegate.m */,
+				405195B6190EDC9100166884 /* MainMenu.xib */,
+				405195B9190EDC9100166884 /* Images.xcassets */,
+				405195A8190EDC9100166884 /* Supporting Files */,
+			);
+			path = FolderSlideshow;
+			sourceTree = "<group>";
+		};
+		405195A8190EDC9100166884 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				405195A9190EDC9100166884 /* FolderSlideshow-Info.plist */,
+				405195AA190EDC9100166884 /* InfoPlist.strings */,
+				405195AD190EDC9100166884 /* main.m */,
+				405195AF190EDC9100166884 /* FolderSlideshow-Prefix.pch */,
+				405195B0190EDC9100166884 /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		405195C5190EDC9100166884 /* FolderSlideshowTests */ = {
+			isa = PBXGroup;
+			children = (
+				405195CB190EDC9100166884 /* FolderSlideshowTests.m */,
+				405195C6190EDC9100166884 /* Supporting Files */,
+			);
+			path = FolderSlideshowTests;
+			sourceTree = "<group>";
+		};
+		405195C6190EDC9100166884 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				405195C7190EDC9100166884 /* FolderSlideshowTests-Info.plist */,
+				405195C8190EDC9100166884 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4051959D190EDC9100166884 /* FolderSlideshow */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 405195CF190EDC9100166884 /* Build configuration list for PBXNativeTarget "FolderSlideshow" */;
+			buildPhases = (
+				4051959A190EDC9100166884 /* Sources */,
+				4051959B190EDC9100166884 /* Frameworks */,
+				4051959C190EDC9100166884 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FolderSlideshow;
+			productName = FolderSlideshow;
+			productReference = 4051959E190EDC9100166884 /* FolderSlideshow.app */;
+			productType = "com.apple.product-type.application";
+		};
+		405195BE190EDC9100166884 /* FolderSlideshowTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 405195D2190EDC9100166884 /* Build configuration list for PBXNativeTarget "FolderSlideshowTests" */;
+			buildPhases = (
+				405195BB190EDC9100166884 /* Sources */,
+				405195BC190EDC9100166884 /* Frameworks */,
+				405195BD190EDC9100166884 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				405195C4190EDC9100166884 /* PBXTargetDependency */,
+			);
+			name = FolderSlideshowTests;
+			productName = FolderSlideshowTests;
+			productReference = 405195BF190EDC9100166884 /* FolderSlideshowTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		40519596190EDC9100166884 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = FS;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = juanignaciosl;
+				TargetAttributes = {
+					405195BE190EDC9100166884 = {
+						TestTargetID = 4051959D190EDC9100166884;
+					};
+				};
+			};
+			buildConfigurationList = 40519599190EDC9100166884 /* Build configuration list for PBXProject "FolderSlideshow" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 40519595190EDC9100166884;
+			productRefGroup = 4051959F190EDC9100166884 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4051959D190EDC9100166884 /* FolderSlideshow */,
+				405195BE190EDC9100166884 /* FolderSlideshowTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4051959C190EDC9100166884 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				405195AC190EDC9100166884 /* InfoPlist.strings in Resources */,
+				405195BA190EDC9100166884 /* Images.xcassets in Resources */,
+				405195B2190EDC9100166884 /* Credits.rtf in Resources */,
+				405195B8190EDC9100166884 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		405195BD190EDC9100166884 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				405195CA190EDC9100166884 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4051959A190EDC9100166884 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				405195AE190EDC9100166884 /* main.m in Sources */,
+				405195B5190EDC9100166884 /* FSAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		405195BB190EDC9100166884 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				405195CC190EDC9100166884 /* FolderSlideshowTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		405195C4190EDC9100166884 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 4051959D190EDC9100166884 /* FolderSlideshow */;
+			targetProxy = 405195C3190EDC9100166884 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		405195AA190EDC9100166884 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				405195AB190EDC9100166884 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		405195B0190EDC9100166884 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				405195B1190EDC9100166884 /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		405195B6190EDC9100166884 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				405195B7190EDC9100166884 /* Base */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		405195C8190EDC9100166884 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				405195C9190EDC9100166884 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		405195CD190EDC9100166884 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		405195CE190EDC9100166884 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		405195D0190EDC9100166884 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FolderSlideshow/FolderSlideshow-Prefix.pch";
+				INFOPLIST_FILE = "FolderSlideshow/FolderSlideshow-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		405195D1190EDC9100166884 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FolderSlideshow/FolderSlideshow-Prefix.pch";
+				INFOPLIST_FILE = "FolderSlideshow/FolderSlideshow-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		405195D3190EDC9100166884 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/FolderSlideshow.app/Contents/MacOS/FolderSlideshow";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FolderSlideshow/FolderSlideshow-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "FolderSlideshowTests/FolderSlideshowTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		405195D4190EDC9100166884 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/FolderSlideshow.app/Contents/MacOS/FolderSlideshow";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FolderSlideshow/FolderSlideshow-Prefix.pch";
+				INFOPLIST_FILE = "FolderSlideshowTests/FolderSlideshowTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		40519599190EDC9100166884 /* Build configuration list for PBXProject "FolderSlideshow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				405195CD190EDC9100166884 /* Debug */,
+				405195CE190EDC9100166884 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		405195CF190EDC9100166884 /* Build configuration list for PBXNativeTarget "FolderSlideshow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				405195D0190EDC9100166884 /* Debug */,
+				405195D1190EDC9100166884 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		405195D2190EDC9100166884 /* Build configuration list for PBXNativeTarget "FolderSlideshowTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				405195D3190EDC9100166884 /* Debug */,
+				405195D4190EDC9100166884 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 40519596190EDC9100166884 /* Project object */;
+}
