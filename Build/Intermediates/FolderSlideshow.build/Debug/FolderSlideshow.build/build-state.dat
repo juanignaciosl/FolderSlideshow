@@ -1,0 +1,761 @@
+TFolderSlideshow
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch.pch FolderSlideshow/FolderSlideshow-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/main.o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSAppDelegate.o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderWatcher.o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderSlideshowMainWindow.o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/MacOS/FolderSlideshow normal x86_64
+cCopyStringsFile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/InfoPlist.strings FolderSlideshow/en.lproj/InfoPlist.strings
+cCpResource FolderSlideshow/en.lproj/Credits.rtf Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib
+cCompileAssetCatalog /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Images.xcassets
+cProcessInfoPlistFile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Info.plist /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Info.plist
+cTouch /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005347478100000000000000AA
+t1397180289
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000528F9A1F000000000000044C
+t1385142815
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F14FE00000000000001DE
+t1394545918
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000531F14FE0000000000268434
+t1394545918
+s2524212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000528F9A1F0000000000007D5C
+t1385142815
+s32092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000531F14FE0000000000020D64
+t1394545918
+s134500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c00000000528F9A1F000000000001B3B8
+t1385142815
+s111544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000531F14FE0000000000034FAC
+t1394545918
+s217004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c00000000528F9A1F000000000000CB08
+t1385142815
+s51976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c00000000528F9A1F000000000002C5F4
+t1385142815
+s181748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c00000000528F9A1F000000000002B9A8
+t1385142815
+s178600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000531F14FE0000000000011EF8
+t1394545918
+s73464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531F14FE00000000000598A8
+t1394545918
+s366760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000528F9A1F000000000000253C
+t1385142815
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000531F14FE000000000004C7C4
+t1394545918
+s313284
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531F14FE0000000000085C70
+t1394545918
+s547952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531F14FE000000000008B334
+t1394545918
+s570164
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000528F9A20000000000000979C
+t1385142816
+s38812
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c00000000528F9A2000000000000223B4
+t1385142816
+s140212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000531F14FE0000000000071CA8
+t1394545918
+s466088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c00000000528F9A200000000000017E1C
+t1385142816
+s97820
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c00000000531F14FE000000000004F090
+t1394545918
+s323728
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c00000000531F14FE000000000003AA48
+t1394545918
+s240200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c00000000531F14FE00000000000383CC
+t1394545918
+s230348
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c00000000528F9A20000000000001B66C
+t1385142816
+s112236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531F14FE0000000000030448
+t1394545918
+s197704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000528F9A200000000000017D00
+t1385142816
+s97536
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+c00000000531F14FE000000000000B27C
+t1394545918
+s45692
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F14FE00000000000C9E38
+t1394545918
+s826936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c00000000531F14FE000000000004426C
+t1394545918
+s279148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+c00000000528F9A20000000000000A9A0
+t1385142816
+s43424
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000531F14FE00000000000394B0
+t1394545918
+s234672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000531F14FE000000000000BB7C
+t1394545918
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c00000000531F14FE00000000000211A0
+t1394545918
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c00000000531F14FE0000000000005F00
+t1394545918
+s24320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531F14FE0000000000055BC0
+t1394545918
+s351168
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+c00000000531F14FE0000000000056FB4
+t1394545918
+s356276
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+c00000000528F9A21000000000000D484
+t1385142817
+s54404
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531F14FF00000000000762B4
+t1394545919
+s484020
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000531F14FF000000000000681C
+t1394545919
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+c00000000528F9A250000000000014EF8
+t1385142821
+s85752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000528F9A250000000000004734
+t1385142821
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000528F9A25000000000000FC6C
+t1385142821
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000528F9A25000000000000F6A0
+t1385142821
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000528F9A250000000000006254
+t1385142821
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000528F9A25000000000000E0F8
+t1385142821
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000531F14FF000000000000D6DC
+t1394545919
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000531F14FF0000000000006308
+t1394545919
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000528F9A250000000000004050
+t1385142821
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000531F14FF0000000000008570
+t1394545919
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000528F9A250000000000005EA0
+t1385142821
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000528F9A250000000000005FAC
+t1385142821
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000528F9A250000000000004440
+t1385142821
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000528F9A25000000000000AA28
+t1385142821
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000528F9A250000000000003E2C
+t1385142821
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000531F14FF0000000000030B04
+t1394545919
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000531F14FF0000000000005E54
+t1394545919
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000531F14FF0000000000006A90
+t1394545919
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000528F9A2500000000000178AC
+t1385142821
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000531F14FF000000000001ADC8
+t1394545919
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000528F9A25000000000001028C
+t1385142821
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000531F14FF0000000000008800
+t1394545919
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000528F9A250000000000011090
+t1385142821
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000528F9A25000000000000882C
+t1385142821
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000531F14FF00000000000067AC
+t1394545919
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000528F9A250000000000008DEC
+t1385142821
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000531F14FF0000000000004C08
+t1394545919
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000531F14FF0000000000002428
+t1394545919
+s9256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000528F9A25000000000000439C
+t1385142821
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000528F9A250000000000006768
+t1385142821
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000531F14FF00000000000172F4
+t1394545919
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F15000000000000000ADC
+t1394545920
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c00000000534747750000000000001770
+t1397180277
+s6000
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSAppDelegate.o
+t1398874479
+s31576
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderSlideshowMainWindow.o
+t1398875131
+s35020
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderWatcher.o
+t1398872449
+s20648
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FolderSlideshow.LinkFileList
+c00000000535EBD0100000000000002BB
+t1398717697
+s699
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/main.o
+t1398717697
+s3464
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/assetcatalog_dependencies.txt
+t1398717699
+s320
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/assetcatalog_generated_info.plist
+t1398717699
+s181
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch.pch
+t1398717697
+s125592
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app
+t1398875131
+s102
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Info.plist
+t1398717699
+s1439
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/MacOS/FolderSlideshow
+t1398875131
+s30732
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/PkgInfo
+t1398717699
+s8
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/Base.lproj/MainMenu.nib
+t1398874583
+s38465
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/Credits.rtf
+t1398717697
+s436
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1398717697
+s92
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib
+c00000000536121D7000000000000C6DE
+t1398874583
+s50910
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.h
+c00000000535EBBAE000000000000014A
+t1398717358
+s330
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m
+c000000005361216F0000000000000323
+t1398874479
+s803
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.h
+c00000000535EBBE1000000000000015D
+t1398717409
+s349
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.m
+c00000000536123FA0000000000000561
+t1398875130
+s1377
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.h
+c00000000535EB63C00000000000001D1
+t1398715964
+s465
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.m
+c00000000536119810000000000000B23
+t1398872449
+s2851
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Info.plist
+c00000000535EA5110000000000000450
+t1398711569
+s1104
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Prefix.pch
+c00000000535EA51100000000000000AC
+t1398711569
+s172
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Images.xcassets
+c00000000535EA5110000000000000066
+t1398711569
+s102
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/en.lproj/Credits.rtf
+c00000000535EA51100000000000001B4
+t1398711569
+s436
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/en.lproj/InfoPlist.strings
+c00000000535EA511000000000000002D
+t1398711569
+s45
+
+N/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/main.m
+c00000000535EA511000000000000010A
+t1398711569
+s266
+
+CBuild AST from /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m
+r0
+
+CBuild AST from /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.m
+r0
+
+CBuild AST from /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.m
+r0
+
+CBuild AST from /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9da0e99f5b11b941^ebfee99f5b11b941^---0#1#1#--18"Check dependencies36"95F24F59-4190-4EBD-B84B-23B4108E9F41-
+
+CCompileAssetCatalog /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Images.xcassets
+s420410497.963276
+e420410499.147322
+r1
+xCompileAssetCatalog
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/Assets.car
+o/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CompileAssetCatalog Build/Products/Debug/FolderSlideshow.app/Contents/Resources FolderSlideshow/Images.xcassets111"CompileAssetCatalog Build/Products/Debug/FolderSlideshow.app/Contents/Resources FolderSlideshow/Images.xcassets9eb2f681f40eb941^3dba2583f40eb941^-349"/* com.apple.actool.compilation-results *//Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/Assets.car/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@104"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Images.xcassets/0000000000000000^1012"CompileAssetCatalog Build/Products/Debug/FolderSlideshow.app/Contents/Resources FolderSlideshow/Images.xcassets    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Images.xcassets36"55463FDA-3614-4F7D-B6DB-DC3A3D5056E8-
+b1B14F134-068A-4328-BA2D-9417EEA1C294
+
+CCompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSAppDelegate.o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420567279.184443
+e420567279.267748
+r1
+xCompileC
+xBuild/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSAppDelegate.o
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.h
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.h
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.h
+o/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m:24:5: warning: expression result unused [-Wunused-value]
+o    [[FSFolderWatcher alloc] initWithFolder: @"/Users/juanignaciosl/Pictures/AutoBackup/2014-04-29" andDelegate: mainWindow];
+o    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m218"CompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSAppDelegate.o FolderSlideshow/FSAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler97562fef5811b941^180846ef5811b941^-426"/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m:24:5: warning: expression result unused [-Wunused-value]    [[FSFolderWatcher alloc] initWithFolder: @"/Users/juanignaciosl/Pictures/AutoBackup/2014-04-29" andDelegate: mainWindow];    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@24"Expression result unused-420567279#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@103"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m0000000000000000^23#4#23#4#673#0#19"Unused Entity Issue1(3@103"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m0000000000000000^23#4#23#124#673#119#-0#0#1#-19%DVTDocumentLocation4@103"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m0000000000000000^3806"CompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSAppDelegate.o FolderSlideshow/FSAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/juanignaciosl/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-generated-files.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-own-target-headers.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-all-target-headers.hmap -iquote /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-project-headers.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/DerivedSources/x86_64 -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/DerivedSources -F/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug -include /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch -MMD -MT dependencies -MF /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSAppDelegate.d --serialize-diagnostics /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSAppDelegate.dia -c /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSAppDelegate.m -o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSAppDelegate.o36"627541BD-4139-43F5-96C2-933E702EE95A-
+bFA32ECC7-067D-48CC-A50E-49EF898E12A0
+
+CCompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderSlideshowMainWindow.o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420567931.012670
+e420567931.093781
+r1
+xCompileC
+xBuild/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderSlideshowMainWindow.o
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.m
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.h
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.m246"CompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderSlideshowMainWindow.o FolderSlideshow/FSFolderSlideshowMainWindow.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc95a037b5b11b941^fb04187b5b11b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.m0000000000000000^3890"CompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderSlideshowMainWindow.o FolderSlideshow/FSFolderSlideshowMainWindow.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/juanignaciosl/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-generated-files.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-own-target-headers.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-all-target-headers.hmap -iquote /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-project-headers.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/DerivedSources/x86_64 -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/DerivedSources -F/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug -include /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch -MMD -MT dependencies -MF /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderSlideshowMainWindow.d --serialize-diagnostics /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderSlideshowMainWindow.dia -c /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderSlideshowMainWindow.m -o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderSlideshowMainWindow.o36"B7ABE5CD-5CD9-4AA5-91D1-93E1C5871D5C-
+b0DE063C4-D42A-4E9C-BB13-01D24C95A4D2
+
+CCompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderWatcher.o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420565249.464071
+e420565249.945785
+r1
+xCompileC
+xBuild/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderWatcher.o
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.m
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.m222"CompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderWatcher.o FolderSlideshow/FSFolderWatcher.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4f4077015111b941^5820f2015111b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.m0000000000000000^3818"CompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderWatcher.o FolderSlideshow/FSFolderWatcher.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/juanignaciosl/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-generated-files.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-own-target-headers.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-all-target-headers.hmap -iquote /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-project-headers.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/DerivedSources/x86_64 -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/DerivedSources -F/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug -include /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch -MMD -MT dependencies -MF /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderWatcher.d --serialize-diagnostics /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderWatcher.dia -c /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FSFolderWatcher.m -o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderWatcher.o36"2C15DC5D-5D39-4843-826A-1D9A3AB7E389-
+b32A9CB3F-4F8C-46C3-B2DA-CFCA47B670C7
+
+CCompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/main.o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420410497.789701
+e420410497.865333
+r1
+xCompileC
+xBuild/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/main.o
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/main.m200"CompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/main.o FolderSlideshow/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerf854ca81f40eb941^6287dd81f40eb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/main.m0000000000000000^3752"CompileC Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/main.o FolderSlideshow/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/juanignaciosl/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-generated-files.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-own-target-headers.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-all-target-headers.hmap -iquote /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-project-headers.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/DerivedSources/x86_64 -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/DerivedSources -F/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug -include /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch -MMD -MT dependencies -MF /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/main.dia -c /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/main.m -o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/main.o36"3607E6B3-12A0-4BA1-B7DC-7B5659311EAE-
+b1B14F134-068A-4328-BA2D-9417EEA1C294
+
+CCompileXIB /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib
+s420567383.713851
+e420567383.978522
+r1
+xCompileXIB
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib:QvC-M9-y7g: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations) [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib50"CompileXIB FolderSlideshow/Base.lproj/MainMenu.xib38d9b6575911b941^6781fa575911b941^-304"/* com.apple.ibtool.document.warnings *//Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib:QvC-M9-y7g: warning: Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)1(21%IDEActivityLogMessage2@136"Content rectangle not entirely on screen with the menu bar (May not be completely visible for all screen resolutions and configurations)184"/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib:QvC-M9-y7g: warning: Content rectangle not entirely on screen with the menu bar420567383#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@111"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@111"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib0000000000000000^638"CompileXIB FolderSlideshow/Base.lproj/MainMenu.xib    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/Base.lproj/MainMenu.nib /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/Base.lproj/MainMenu.xib36"C6C70048-1F8C-4147-A705-CED8C968F1B5-
+bEEB1C133-B24A-4AF3-B0B7-E62D6E1228F3
+
+CCopyStringsFile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/InfoPlist.strings FolderSlideshow/en.lproj/InfoPlist.strings
+s420410497.961716
+e420410497.963413
+r1
+xCopyStringsFile
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/InfoPlist.strings
+xFolderSlideshow/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy FolderSlideshow/en.lproj/InfoPlist.strings145"CopyStringsFile Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/InfoPlist.strings FolderSlideshow/en.lproj/InfoPlist.strings9640f681f40eb941^efabf681f40eb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/en.lproj/InfoPlist.strings0000000000000000^488"CopyStringsFile Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/InfoPlist.strings FolderSlideshow/en.lproj/InfoPlist.strings    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj -- FolderSlideshow/en.lproj/InfoPlist.strings36"FEAE8377-B6D2-442F-8057-B70396B9BCC1-
+b1B14F134-068A-4328-BA2D-9417EEA1C294
+
+CCpResource FolderSlideshow/en.lproj/Credits.rtf Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/Credits.rtf
+s420410497.961951
+e420410497.963825
+r1
+xCpResource
+xFolderSlideshow/en.lproj/Credits.rtf
+xBuild/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/Credits.rtf128"CpResource FolderSlideshow/en.lproj/Credits.rtf Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/Credits.rtf054ef681f40eb941^c2bdf681f40eb941^---0#0#1#-19%DVTDocumentLocation2@152"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/Credits.rtf003430b7dcffdf42^549"CpResource FolderSlideshow/en.lproj/Credits.rtf Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/en.lproj/Credits.rtf /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Resources/en.lproj36"98E34BA8-7A5B-47BC-BBB7-76FABA79D687-
+b1B14F134-068A-4328-BA2D-9417EEA1C294
+
+CLd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/MacOS/FolderSlideshow normal x86_64
+s420567931.096517
+e420567931.150422
+r1
+xLd
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/MacOS/FolderSlideshow
+xnormal
+xx86_64
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FolderSlideshow.LinkFileList
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/main.o
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSAppDelegate.o
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderWatcher.o
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FSFolderSlideshowMainWindow.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Link /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/MacOS/FolderSlideshow88"Ld Build/Products/Debug/FolderSlideshow.app/Contents/MacOS/FolderSlideshow normal x86_64e3c3187b5b11b941^b682267b5b11b941^---0#0#1#--1235"Ld Build/Products/Debug/FolderSlideshow.app/Contents/MacOS/FolderSlideshow normal x86_64    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug -F/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug -filelist /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FolderSlideshow.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/Objects-normal/x86_64/FolderSlideshow_dependency_info.dat -o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/MacOS/FolderSlideshow36"096E2519-ED94-454B-829A-4D519458AE25-
+b0DE063C4-D42A-4E9C-BB13-01D24C95A4D2
+
+CProcessInfoPlistFile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Info.plist /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Info.plist
+s420410499.148338
+e420410499.150292
+r1
+xProcessInfoPlistFile
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Info.plist
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Process /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Info.plist124"ProcessInfoPlistFile Build/Products/Debug/FolderSlideshow.app/Contents/Info.plist FolderSlideshow/FolderSlideshow-Info.plist1c0b2683f40eb941^427a2683f40eb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Info.plist0000000000000000^828"ProcessInfoPlistFile Build/Products/Debug/FolderSlideshow.app/Contents/Info.plist FolderSlideshow/FolderSlideshow-Info.plist    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    builtin-infoPlistUtility /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Info.plist -genpkginfo /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/assetcatalog_generated_info.plist -o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app/Contents/Info.plist36"C7708967-BA88-4727-A705-7CDD08FAB368-
+b1B14F134-068A-4328-BA2D-9417EEA1C294
+
+CProcessPCH /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch.pch FolderSlideshow/FolderSlideshow-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420410497.714835
+e420410497.788968
+r1
+xProcessPCH
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch.pch
+xFolderSlideshow/FolderSlideshow-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile FolderSlideshow/FolderSlideshow-Prefix.pch245"ProcessPCH Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch.pch FolderSlideshow/FolderSlideshow-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb41db781f40eb941^b9fac981f40eb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Prefix.pch0000000000000000^3697"ProcessPCH Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch.pch FolderSlideshow/FolderSlideshow-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/juanignaciosl/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-generated-files.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-own-target-headers.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-all-target-headers.hmap -iquote /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/FolderSlideshow-project-headers.hmap -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/DerivedSources/x86_64 -I/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/FolderSlideshow.build/Debug/FolderSlideshow.build/DerivedSources -F/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug --serialize-diagnostics /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch.dia -MMD -MT dependencies -MF /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch.d -c /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/FolderSlideshow/FolderSlideshow-Prefix.pch -o /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Intermediates/PrecompiledHeaders/FolderSlideshow-Prefix-cxipvmxwpqjvczewdspvtmnsagpk/FolderSlideshow-Prefix.pch.pch36"03693CAA-54C2-449F-A7FE-273E1A41550F-
+b1B14F134-068A-4328-BA2D-9417EEA1C294
+
+CProcessPCH /Users/juanignaciosl/Library/Developer/Xcode/DerivedData/FolderSlideshow-flnmcohutmbuwrbpytnazinvewot/Index/PrecompiledHeaders/FolderSlideshow-Prefix-bqnzyysmowoaccaabivwyesjvsne_ast/FolderSlideshow-Prefix.pch.pch FolderSlideshow/FolderSlideshow-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app
+s420567931.152406
+e420567931.156303
+r1
+xTouch
+x/Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Touch /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app46"Touch Build/Products/Debug/FolderSlideshow.app6f0e277b5b11b941^2104287b5b11b941^---0#0#1#--247"Touch Build/Products/Debug/FolderSlideshow.app    cd /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow    /usr/bin/touch -c /Users/juanignaciosl/Development/FolderSlideshow/FolderSlideshow/Build/Products/Debug/FolderSlideshow.app36"C67A5432-1AFF-4D1C-936E-3D7A06395FDE-
+b0DE063C4-D42A-4E9C-BB13-01D24C95A4D2
+
