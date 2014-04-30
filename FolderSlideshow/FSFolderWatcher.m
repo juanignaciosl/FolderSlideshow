@@ -18,7 +18,6 @@ void callbackFunction(ConstFSEventStreamRef streamRef,
                       void *eventPaths,
                       const FSEventStreamEventFlags eventFlags[],
                       const FSEventStreamEventId eventIds[]) {
-    NSLog(@"Callbacked");
     int i;
     char **paths = eventPaths;
     

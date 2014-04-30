@@ -28,13 +28,10 @@
     return self;
 }
 
-- (void)newFileAtPath:(NSString *)path {
-    NSLog(@"New file at path: %@", path);
-    
+- (void)newFileAtPath:(NSString *)path {    
     [self.imagePaths addObject: path];
 }
 - (void) changeImage {
-    NSLog(@"Change image");
     if(_imagePaths.count > 0) {
         _currentImageIndex = (_currentImageIndex + 1) % _imagePaths.count;
         
