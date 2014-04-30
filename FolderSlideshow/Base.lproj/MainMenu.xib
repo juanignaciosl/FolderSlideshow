@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="5023" systemVersion="13A603" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="5056" systemVersion="13C64" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="5023"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="5056"/>
     </dependencies>
     <objects>
         <customObject id="-2" userLabel="File's Owner" customClass="NSApplication">
@@ -666,15 +666,29 @@
                 </menuItem>
             </items>
         </menu>
-        <window title="FolderSlideshow" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" id="QvC-M9-y7g">
-            <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
-            <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
-            <rect key="contentRect" x="335" y="390" width="480" height="360"/>
+        <window title="FolderSlideshow" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" restorable="NO" hasShadow="NO" releasedWhenClosed="NO" showsToolbarButton="NO" animationBehavior="default" id="QvC-M9-y7g" customClass="FSFolderSlideshowMainWindow">
+            <rect key="contentRect" x="0.0" y="668" width="800" height="600"/>
             <rect key="screenRect" x="0.0" y="0.0" width="1680" height="1028"/>
             <view key="contentView" id="EiT-Mj-1SZ">
-                <rect key="frame" x="0.0" y="0.0" width="480" height="360"/>
+                <rect key="frame" x="0.0" y="0.0" width="800" height="600"/>
                 <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="bA8-Go-ejX">
+                        <rect key="frame" x="0.0" y="0.0" width="800" height="600"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                        <imageCell key="cell" refusesFirstResponder="YES" alignment="left" imageScaling="proportionallyDown" id="ECv-9z-yYI"/>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="bA8-Go-ejX" firstAttribute="top" secondItem="EiT-Mj-1SZ" secondAttribute="top" id="HY1-C7-cKc"/>
+                    <constraint firstItem="bA8-Go-ejX" firstAttribute="leading" secondItem="EiT-Mj-1SZ" secondAttribute="leading" id="IMR-Vk-9W3"/>
+                    <constraint firstAttribute="bottom" secondItem="bA8-Go-ejX" secondAttribute="bottom" id="P4i-qd-ZSk"/>
+                    <constraint firstAttribute="trailing" secondItem="bA8-Go-ejX" secondAttribute="trailing" id="voD-mg-2Q2"/>
+                </constraints>
             </view>
+            <connections>
+                <outlet property="imageView" destination="bA8-Go-ejX" id="YCW-U0-rRZ"/>
+            </connections>
         </window>
     </objects>
 </document>

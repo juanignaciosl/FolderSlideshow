@@ -18,6 +18,8 @@
 		405195C2190EDC9100166884 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 405195A1190EDC9100166884 /* Cocoa.framework */; };
 		405195CA190EDC9100166884 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 405195C8190EDC9100166884 /* InfoPlist.strings */; };
 		405195CC190EDC9100166884 /* FolderSlideshowTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 405195CB190EDC9100166884 /* FolderSlideshowTests.m */; };
+		4052F41D190EDD56003AF8AB /* FSFolderWatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 4052F41C190EDD56003AF8AB /* FSFolderWatcher.m */; };
+		4052F420190EF1D9003AF8AB /* FSFolderSlideshowMainWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 4052F41F190EF1D9003AF8AB /* FSFolderSlideshowMainWindow.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,10 @@
 		405195C7190EDC9100166884 /* FolderSlideshowTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FolderSlideshowTests-Info.plist"; sourceTree = "<group>"; };
 		405195C9190EDC9100166884 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		405195CB190EDC9100166884 /* FolderSlideshowTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FolderSlideshowTests.m; sourceTree = "<group>"; };
+		4052F41B190EDD56003AF8AB /* FSFolderWatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSFolderWatcher.h; sourceTree = "<group>"; };
+		4052F41C190EDD56003AF8AB /* FSFolderWatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSFolderWatcher.m; sourceTree = "<group>"; };
+		4052F41E190EF1D9003AF8AB /* FSFolderSlideshowMainWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSFolderSlideshowMainWindow.h; sourceTree = "<group>"; };
+		4052F41F190EF1D9003AF8AB /* FSFolderSlideshowMainWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSFolderSlideshowMainWindow.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,11 +121,15 @@
 		405195A7190EDC9100166884 /* FolderSlideshow */ = {
 			isa = PBXGroup;
 			children = (
-				405195B3190EDC9100166884 /* FSAppDelegate.h */,
-				405195B4190EDC9100166884 /* FSAppDelegate.m */,
 				405195B6190EDC9100166884 /* MainMenu.xib */,
 				405195B9190EDC9100166884 /* Images.xcassets */,
 				405195A8190EDC9100166884 /* Supporting Files */,
+				405195B3190EDC9100166884 /* FSAppDelegate.h */,
+				405195B4190EDC9100166884 /* FSAppDelegate.m */,
+				4052F41B190EDD56003AF8AB /* FSFolderWatcher.h */,
+				4052F41C190EDD56003AF8AB /* FSFolderWatcher.m */,
+				4052F41E190EF1D9003AF8AB /* FSFolderSlideshowMainWindow.h */,
+				4052F41F190EF1D9003AF8AB /* FSFolderSlideshowMainWindow.m */,
 			);
 			path = FolderSlideshow;
 			sourceTree = "<group>";
@@ -255,6 +265,8 @@
 			files = (
 				405195AE190EDC9100166884 /* main.m in Sources */,
 				405195B5190EDC9100166884 /* FSAppDelegate.m in Sources */,
+				4052F41D190EDD56003AF8AB /* FSFolderWatcher.m in Sources */,
+				4052F420190EF1D9003AF8AB /* FSFolderSlideshowMainWindow.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,6 +479,7 @@
 				405195D1190EDC9100166884 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		405195D2190EDC9100166884 /* Build configuration list for PBXNativeTarget "FolderSlideshowTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +488,7 @@
 				405195D4190EDC9100166884 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

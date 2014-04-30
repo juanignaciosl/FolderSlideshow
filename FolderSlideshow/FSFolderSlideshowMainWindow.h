@@ -1,5 +1,5 @@
 //
-//  FSAppDelegate.h
+//  FSImageView.h
 //  FolderSlideshow
 //
 //  Created by Juan Ignacio Sánchez Lara on 28/04/14.
@@ -9,8 +9,8 @@
 #import <Cocoa/Cocoa.h>
 #import "FSFolderWatcher.h"
 
-@interface FSAppDelegate : NSObject <NSApplicationDelegate>
+@interface FSFolderSlideshowMainWindow : NSWindow<FSFolderWatcherDelegate>
 
-@property (assign) IBOutlet NSWindow *window;
+@property (strong) IBOutlet NSImageView *imageView;
 
 @end
